@@ -2,6 +2,29 @@
 
 >_[Training](https://github.com/simplonco/training) / UNIX / Bash_
 
+## Ressources
+
+Environnement UNIX/LINUX (Simplonline)
+http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241
+
+MIT Terminus
+http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html
+
+Bash Challenges
+https://www.hackerrank.com/domains/shell/bash
+
+Linux CheatSheet
+http://juliend.github.io/linux-cheatsheet/
+
+https://www.hackerrank.com/domains/regex/
+
+Vim Awesome
+http://vimawesome.com/
+
+### Upgrade
+
+Don't forget to keep Ubuntu/Debian up to date: `sudo apt-get update; sudo apt-get upgrade; sudo apt-get dist-upgrade; sudo apt-get autoremove; sudo apt-get autoclean;` :wink !
+
 ### Discourses
 
 * [Installer Ubuntu sur son ordinateur](http://discourse.simplon.co/t/installer-ubuntu/39)
