@@ -7,14 +7,10 @@
 * [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241)
 * [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
 * [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/)
-
-### Bash
-
-* [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash)
-
-### Vim
-
-* [Vim Awesome](http://vimawesome.com/)
+* **Bash**
+  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash)
+* **Vim**
+  * [Vim Awesome](http://vimawesome.com/)
 
 ### Upgrade
 
