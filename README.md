@@ -2,6 +2,8 @@
 
 >_[Training](https://github.com/simplonco/training) / UNIX_
 
+![Linux](linux.jpg)
+
 ## Ressources
 
 * [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241)
