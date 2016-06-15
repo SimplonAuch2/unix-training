@@ -1,4 +1,4 @@
-# UNIX / LINUX
+# Unix / Linux
 
 >_[Training](https://github.com/simplonco/training) / UNIX_
 
@@ -6,8 +6,14 @@
 
 * [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241)
 * [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-* [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash)
 * [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/)
+
+### Bash
+
+* [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash)
+
+### Vim
+
 * [Vim Awesome](http://vimawesome.com/)
 
 ### Upgrade
