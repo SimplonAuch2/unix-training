@@ -1,6 +1,6 @@
 # Unix / Linux
 
->_[Training](https://github.com/simplonco/training) / UNIX_
+>_[Training](https://gitlab.com/simplon-co/training) / UNIX_
 
 ![Linux](linux.jpg)
 
