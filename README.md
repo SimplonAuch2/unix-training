@@ -2,7 +2,7 @@
 
 >_[Training](https://gitlab.com/simplon-co/training) / UNIX_
 
-![Linux](linux.jpg)
+![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ubuntu_logo.svg/2000px-Ubuntu_logo.svg.png)
 
 ## Ressources
 
