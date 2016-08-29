@@ -16,7 +16,15 @@
 
 ### Upgrade
 
-Don't forget to keep Ubuntu/Debian up to date: `sudo apt-get update; sudo apt-get upgrade; sudo apt-get dist-upgrade; sudo apt-get autoremove; sudo apt-get autoclean;` :wink: !
+Don't forget to keep Ubuntu/Debian up to date :wink: :
+
+```shell
+sudo apt-get update;
+sudo apt-get upgrade;
+sudo apt-get dist-upgrade;
+sudo apt-get autoremove;
+sudo apt-get autoclean;
+```
 
 ### Bash
 
@@ -28,7 +36,9 @@ Créer un script shell simple qui :
 
 `cd`, `ls`, `mkdir`, `rmdir`, `>` et `>>`, `rm`, `cat`
 
-<https://github.com/Boyquotes/bash_bots> => Etapes 1 et 2 du quizz
+<https://github.com/Boyquotes/bash_bots>
+
+=> Etapes 1 et 2 du quizz
 
 ### Discourses
 
