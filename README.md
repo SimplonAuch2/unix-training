@@ -49,3 +49,6 @@ Créer un script shell simple qui :
 * [Cours de SQL avec Postgresql](http://discourse.simplon.co/t/cours-de-sql-avec-postgresql/67)
 * [Terminal : commandes du shell Bash](http://discourse.simplon.co/t/terminal-commandes-du-shell-bash/88)
 * [Cours de modélisation d’une application](http://discourse.simplon.co/t/cours-de-modelisation-dune-application/66)
+
+
+_To be continued.._
