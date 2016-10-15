@@ -1,6 +1,8 @@
 # Unix / Linux
 
->_[Training](https://gitlab.com/simplon-co/training) / UNIX_
+>_[Training](https://github.com/simplonco/training) / UNIX_
+
+![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ubuntu_logo.svg/2000px-Ubuntu_logo.svg.png)
 
 ## Ressources
 
