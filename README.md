@@ -26,7 +26,7 @@ sudo apt-get autoremove;
 sudo apt-get autoclean;
 ```
 
-### Bash
+### Bash exercise
 
 Créer un script shell simple qui :
 
