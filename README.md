@@ -31,7 +31,7 @@
 * **Vim**
   * [Vim Awesome](http://vimawesome.com/) :gb:
   
-#### Discourses
+#### Discourses _(Montreuil Promo #3)_
 
 * [Installer Ubuntu sur son ordinateur](http://discourse.simplon.co/t/installer-ubuntu/39)
 * [Cours sur la gestion de versions avec Git](http://discourse.simplon.co/t/cours-sur-la-gestion-de-versions-avec-git/24)
