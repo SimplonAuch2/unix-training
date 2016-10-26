@@ -2,36 +2,18 @@
 
 >_[Training](https://github.com/simplonco/training) / UNIX_
 
-## Ressources
+## Courses
 
-* [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241)
-* [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-* [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/)
-* **Bash**
-  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash)
-* **Vim**
-  * [Vim Awesome](http://vimawesome.com/)
+> Prairie / [Linux Setup](https://github.com/simplonco/prairie/blob/master/UNIX.md)
 
-### Protocols
+## Exercices
 
-* https://github.com/simplonco/ssh
-* https://github.com/simplonco/ftp
+* [SSH - Map to the treasure](https://github.com/simplonco/ssh)
+* [FTP - Became Famous](https://github.com/simplonco/ftp)
 
-### Upgrade
+## Activities
 
-Don't forget to keep Ubuntu/Debian up to date :wink: :
-
-```shell
-sudo apt-get update;
-sudo apt-get upgrade;
-sudo apt-get dist-upgrade;
-sudo apt-get autoremove;
-sudo apt-get autoclean;
-```
-
-### Bash exercises
-
-Créer un script shell simple qui :
+A) Créer un script shell simple qui :
 
 * 1 - Copie le dossier de code de l'apprenant et qui le compresse.
 * 2 - Fait l'opération inverse (décompression...)
@@ -39,11 +21,21 @@ Créer un script shell simple qui :
 
 `cd`, `ls`, `mkdir`, `rmdir`, `>` et `>>`, `rm`, `cat`
 
-<https://github.com/Boyquotes/bash_bots>
+B) <https://github.com/Boyquotes/bash_bots>
 
 => Etapes 1 et 2 du quizz
 
-### Discourses
+## Ressources
+
+* [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241) :fr:
+* [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) :en:
+* [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/) :en:
+* **Bash**
+  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash) :eb:
+* **Vim**
+  * [Vim Awesome](http://vimawesome.com/) :en:
+  
+#### Discourses
 
 * [Installer Ubuntu sur son ordinateur](http://discourse.simplon.co/t/installer-ubuntu/39)
 * [Cours sur la gestion de versions avec Git](http://discourse.simplon.co/t/cours-sur-la-gestion-de-versions-avec-git/24)
@@ -52,5 +44,6 @@ Créer un script shell simple qui :
 * [Cours de SQL avec Postgresql](http://discourse.simplon.co/t/cours-de-sql-avec-postgresql/67)
 * [Terminal : commandes du shell Bash](http://discourse.simplon.co/t/terminal-commandes-du-shell-bash/88)
 * [Cours de modélisation d’une application](http://discourse.simplon.co/t/cours-de-modelisation-dune-application/66)
+
 
 _To be continued.._
