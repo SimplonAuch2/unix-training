@@ -19,9 +19,7 @@
 
 `cd`, `ls`, `mkdir`, `rmdir`, `>` et `>>`, `rm`, `cat`
 
-**B)** <https://github.com/Boyquotes/bash_bots>
-
-=> Etapes 1 et 2 du quizz
+**B)** <https://github.com/Boyquotes/bash_bots>: Etapes 1 et 2 du quizz
 
 ## Ressources
 
