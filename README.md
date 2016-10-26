@@ -24,12 +24,12 @@
 ## Ressources
 
 * [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241) :fr:
-* [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) :en:
-* [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/) :en:
+* [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) :gb:
+* [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/) :gb:
 * **Bash**
-  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash) :eb:
+  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash) :gb:
 * **Vim**
-  * [Vim Awesome](http://vimawesome.com/) :en:
+  * [Vim Awesome](http://vimawesome.com/) :gb:
   
 #### Discourses
 
