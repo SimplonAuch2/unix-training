@@ -2,10 +2,6 @@
 
 >_[Training](https://github.com/simplonco/training) / UNIX_
 
-## Courses
-
-> Prairie / [Linux Setup](https://github.com/simplonco/prairie/blob/master/UNIX.md)
-
 ## Exercices
 
 * [SSH - Map to the treasure](https://github.com/simplonco/ssh)
@@ -13,7 +9,9 @@
 
 ## Activities
 
-A) Créer un script shell simple qui :
+> Prairie / [Linux Setup](https://github.com/simplonco/prairie/blob/master/UNIX.md)
+
+**A)** Créer un script shell simple qui :
 
 * 1 - Copie le dossier de code de l'apprenant et qui le compresse.
 * 2 - Fait l'opération inverse (décompression...)
@@ -21,7 +19,7 @@ A) Créer un script shell simple qui :
 
 `cd`, `ls`, `mkdir`, `rmdir`, `>` et `>>`, `rm`, `cat`
 
-B) <https://github.com/Boyquotes/bash_bots>
+**B)** <https://github.com/Boyquotes/bash_bots>
 
 => Etapes 1 et 2 du quizz
 
