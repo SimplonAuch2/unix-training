@@ -1,0 +1,9 @@
+[submodule "challenges/xbash"]
+	path = challenges/xbash
+	url = https://github.com/simplonco/xbash
+[submodule "exercises/ssh"]
+	path = exercises/ssh
+	url = https://github.com/simplonco/ssh
+[submodule "exercises/ftp"]
+	path = exercises/ftp
+	url = https://github.com/simplonco/ftp
