@@ -2,33 +2,16 @@
 
 >_[Training](https://github.com/simplonco/training) / UNIX_
 
-![Ubuntu](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ubuntu_logo.svg/2000px-Ubuntu_logo.svg.png)
+## Exercices
 
-## Ressources
+* [SSH - Map to the treasure](https://github.com/simplonco/ssh)
+* [FTP - Became Famous](https://github.com/simplonco/ftp)
 
-* [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241)
-* [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
-* [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/)
-* **Bash**
-  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash)
-* **Vim**
-  * [Vim Awesome](http://vimawesome.com/)
+## Activities
 
-### Upgrade
+> Prairie / [Linux Setup](https://github.com/simplonco/prairie/blob/master/UNIX.md)
 
-Don't forget to keep Ubuntu/Debian up to date :wink: :
-
-```shell
-sudo apt-get update;
-sudo apt-get upgrade;
-sudo apt-get dist-upgrade;
-sudo apt-get autoremove;
-sudo apt-get autoclean;
-```
-
-### Bash exercises
-
-Créer un script shell simple qui :
+**A)** Créer un script shell simple qui :
 
 * 1 - Copie le dossier de code de l'apprenant et qui le compresse.
 * 2 - Fait l'opération inverse (décompression...)
@@ -36,11 +19,19 @@ Créer un script shell simple qui :
 
 `cd`, `ls`, `mkdir`, `rmdir`, `>` et `>>`, `rm`, `cat`
 
-<https://github.com/Boyquotes/bash_bots>
+**B)** [Bash Bots](https://github.com/simplonco/bash_bots) : Etapes 1 et 2 du quizz
 
-=> Etapes 1 et 2 du quizz
+## Ressources
 
-### Discourses
+* [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241) :fr:
+* [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) :gb:
+* [Linux CheatSheet](http://juliend.github.io/linux-cheatsheet/) :gb:
+* **Bash**
+  * [Bash Challenges (HackerRank)](https://www.hackerrank.com/domains/shell/bash) :gb:
+* **Vim**
+  * [Vim Awesome](http://vimawesome.com/) :gb:
+  
+#### Discourses _(Montreuil Promo #3)_
 
 * [Installer Ubuntu sur son ordinateur](http://discourse.simplon.co/t/installer-ubuntu/39)
 * [Cours sur la gestion de versions avec Git](http://discourse.simplon.co/t/cours-sur-la-gestion-de-versions-avec-git/24)
