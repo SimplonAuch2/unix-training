@@ -2,7 +2,7 @@
 
 >_[Training](https://github.com/simplonco/training) / UNIX_
 
-## Exercices
+## Exercises
 
 * [SSH - Map to the treasure](https://github.com/simplonco/ssh)
 * [FTP - Became Famous](https://github.com/simplonco/ftp)
@@ -21,7 +21,7 @@
 
 **B)** [Bash Bots](https://github.com/simplonco/bash_bots) : Etapes 1 et 2 du quizz
 
-## Ressources
+## Resources
 
 * [Environnement UNIX/LINUX (Simplonline)](http://simplonline.co/dashboard/partages-formateurs/241-semaine-1-environnement-unix-linux-241) :fr:
 * [MIT Terminus](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) :gb:
