@@ -41,5 +41,10 @@
 * [Terminal : commandes du shell Bash](http://discourse.simplon.co/t/terminal-commandes-du-shell-bash/88)
 * [Cours de modélisation d’une application](http://discourse.simplon.co/t/cours-de-modelisation-dune-application/66)
 
+## How to Contribute
+
+Please read the [Contribution guide](https://github.com/simplonco/training/blob/master/CONTRIBUTING.md) first!
+
+Do you want to add a resource? correct a mistake? Or do you need a new exercise or project to cover a topic? Do not hesitate to write an [issue](https://github.com/simplonco/unix-training/issues)!
 
 _To be continued.._
